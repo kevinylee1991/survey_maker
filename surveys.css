@@ -1,0 +1,68 @@
+body{
+	background-color: rgb(20,20,20);
+}
+
+.container-fluid{
+	margin-top: 10px;
+	font-family: lucida;
+}
+
+#header{
+	text-align: center;
+}
+
+	#header #title{
+		border-radius: 5px;
+	}
+
+	#header h1{
+		display: inline-block;
+		margin: 40px 0px;
+		font-size: 60px;
+	}
+
+	#header h2{
+		margin-top: 0px;
+	}
+
+.gray_back{
+	background-color: rgb(245,245,245);
+}
+
+#new_survey{
+	margin-top: 1%;
+}
+
+	#new_survey form{
+		margin: 0;
+	}
+
+.survey{
+	margin-top: 1%;
+}
+
+.padding{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.text_right{
+	text-align: right;
+}
+
+#survey_form{
+	text-align: center;
+}
+
+	#survey_form form{
+		text-align: left;
+	}
+
+	#survey_form #submit_survey{
+		text-align: center;
+	}
+
+.red
+{
+	color: red;
+}
